@@ -1,0 +1,3 @@
+21:24:52.505 [main] INFO  utils.DriverUtils - Driver setup started
+21:24:54.649 [main] INFO  utils.DriverUtils - Driver connecting to: http://18.118.14.155:8080/bank/login
+21:24:55.560 [main] INFO  utils.DriverUtils - Driver setup and start is successful!
